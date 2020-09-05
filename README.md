@@ -29,6 +29,12 @@ Commands:
 
 There is only one command right now, that's restore_atmo, details can be found in the wiki
 
+## Does it work on Windows?
+
+It's python, so probably.. but I haven't tested it because developing things on windows is irritating
+
 ## I have another question
 
 Great, let me know what it is and I'll add it here
+
+
