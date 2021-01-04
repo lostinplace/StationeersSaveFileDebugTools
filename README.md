@@ -30,6 +30,12 @@ Commands:
 
 There are two utilities, the first can be used to restore atmospheres from a previous save file, the second is used to generate `startconditions.xml` from a savefile.  Both are explained in the wiki
 
+## Does it work on Windows?
+
+It's python, so probably.. but I haven't tested it because developing things on windows is irritating
+
 ## I have another question
 
 Great, let me know what it is and I'll add it here
+
+
