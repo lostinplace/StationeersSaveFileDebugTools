@@ -13,7 +13,7 @@ def evaluate_expectations(tree:ET, expectations: Dict[str, str], test: str):
 
 
 def test_load_file():
-    from Utils.RestoreAtmo import get_restored_atmosphere_data, load_file
+    from Utils.AtmoFileProcessing.RestoreAtmo import get_restored_atmosphere_data, load_file
 
     current_data = load_file("""../Data/Lost-atmosphere/broken-world-0.xml""")
     old_data = load_file("""../Data/Lost-atmosphere/original-world.xml""")

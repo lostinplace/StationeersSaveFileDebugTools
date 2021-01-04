@@ -24,10 +24,11 @@ Options:
   --help  Show this message and exit.
 
 Commands:
+  generate_start_condition
   restore_atmo
 ```
 
-There is only one command right now, that's restore_atmo, details can be found in the wiki
+There are two utilities, the first can be used to restore atmospheres from a previous save file, the second is used to generate `startconditions.xml` from a savefile.  Both are explained in the wiki
 
 ## I have another question
 
