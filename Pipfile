@@ -7,6 +7,8 @@ verify_ssl = true
 
 [packages]
 click = "~=7.1.2"
+scipy = "*"
+jupyter = "*"
 
 [requires]
 python_version = "3.8"
